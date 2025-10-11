@@ -1,5 +1,5 @@
 '''
-URL: https://adventofcode.com/2024/day/4
+URL: https://adventofcode.com/2024/day/4#part2
 answer = 2029
 '''
 
